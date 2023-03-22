@@ -44,6 +44,7 @@ body {
    
    section {
     margin-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
    }
    
    section h2 {
@@ -70,4 +71,7 @@ body {
 
    .container{
         margin: 0 auto;
+        background-color: #e0e2dd;
+        margin-right: 300px;
+        margin-left: 300px;
    }
